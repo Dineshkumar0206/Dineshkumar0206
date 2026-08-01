@@ -1,52 +1,44 @@
-<h1 align="center">Hi 👋, I'm Dineshkumar</h1>
+<h1 align="center">Hi 👋, I'm Dinesh Kumar</h1>
 
 <h3 align="center">
-🚀 Full Stack Java Developer | Spring Boot | React | Problem Solver
+💻 Full Stack Java Developer | Spring Boot | React | Problem Solver
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Java+Full+Stack+Developer;Spring+Boot+Developer;React+Developer;Always+Learning+New+Technologies+🚀"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&pause=1000&color=0E75B6&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub!;Full+Stack+Java+Developer;Spring+Boot+Developer;React+Developer;Building+Scalable+Applications;Always+Learning+Something+New+🚀"/>
 </p>
 
 <p align="center">
-<a href="mailto:dinesh291105@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+  <a href="mailto:dinesh291105@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 
-<a href="https://www.linkedin.com/in/dineshkumar-k-1b4b01373/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+  <a href="https://www.linkedin.com/in/dineshkumar-k-1b4b01373/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
-<a href="https://leetcode.com/u/Dinesh_02_/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
+  <a href="https://leetcode.com/u/Dinesh_02_/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
+  <a href="https://github.com/Dineshkumar0206">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  </a>
 </p>
 
 ---
 
-# 💫 About Me
+# 👨‍💻 About Me
 
-🎓 Final-Year Computer Science and Engineering Student
+🎓 Final-Year Computer Science & Engineering Student at **V.S.B Engineering College**
 
-💻 Passionate about building scalable Full Stack applications using Java technologies.
+💡 Passionate about building scalable, secure, and user-friendly web applications using Java and modern web technologies.
 
-🌱 Currently learning
+🚀 I enjoy solving real-world problems, learning new technologies, and developing projects that create meaningful impact.
 
-- Data Structures & Algorithms
-- Bit Manipulation
-- Spring Boot
-- React
-- Docker
-- System Design
-- Microservices
-
-🚀 Interested in Backend Development, REST APIs, Cloud Technologies and AI-powered Applications.
-
-🎯 **Goal:** Become a Software Development Engineer by building impactful software solutions.
+- 🌱 Currently learning **Data Structures & Algorithms, Spring Boot, React, System Design, Docker, and Cloud Computing**
+- 🎯 Aspiring Software Development Engineer (SDE)
+- 💬 Ask me about **Java, Spring Boot, React, REST APIs, and SQL**
 
 ---
 
@@ -54,89 +46,79 @@
 
 ## 🤖 AI Doctor Appointment System
 
-AI-powered healthcare appointment platform featuring doctor recommendations, JWT Authentication, email notifications, and role-based dashboards.
+An AI-powered healthcare platform featuring intelligent doctor recommendations, secure JWT authentication, email notifications, role-based dashboards, and REST APIs.
 
-**Tech Used:** Spring Boot, React, PostgreSQL, Docker, Groq AI
+**Tech Stack:** Spring Boot • React • PostgreSQL • Docker • Groq AI
 
 ---
 
 ## 🚌 Track My Bus
 
-GPS-based real-time bus tracking application with REST APIs and responsive UI.
+A GPS-based real-time bus tracking application that enables passengers to monitor bus locations with a responsive web interface.
 
-**Tech Used:** Spring Boot, JavaScript, HTML, CSS, MySQL
+**Tech Stack:** Spring Boot • HTML • CSS • JavaScript • MySQL
 
 ---
 
 ## 🔒 SecureLens
 
-Cybersecurity platform for phishing website detection using heuristic URL analysis.
+A phishing detection platform that identifies malicious websites using heuristic URL analysis with secure authentication.
 
-**Tech Used:** Spring Boot, React, MySQL, JWT Authentication
+**Tech Stack:** Spring Boot • React • MySQL • JWT Authentication
 
 ---
 
 # 💻 Tech Stack
 
-### Programming Languages
+## Programming Languages
+
 - Java
-- JavaScript
 - SQL
-- HTML5
-- CSS3
 
-### Backend
-- Spring Boot
-- Spring MVC
-- REST APIs
-- Spring Security
-- JWT Authentication
-- Maven
+## Frontend
 
-### Frontend
 - React
-- Bootstrap
+- HTML5
+- 
+## Backend
 
-### Databases
+- Spring Boot
+
+## Database
+
 - MySQL
 - PostgreSQL
 
-### Tools & Platforms
+## Tools
+
 - Git
 - GitHub
 - Docker
 - VS Code
-- IntelliJ IDEA
-- Postman
 
-### Core Concepts
+## Core Concepts
+
 - Object-Oriented Programming (OOP)
 - Data Structures & Algorithms
-- Bit Manipulation
-- REST Architecture
-- Database Design
 
----
+# 📜 Certifications
 
-# 🌱 Currently Working On
-
-- Solving LeetCode Problems Daily
-- Advanced Data Structures & Algorithms
-- Building Production-Ready Spring Boot Applications
-- Learning Microservices & Cloud Technologies
+- NPTEL – Cloud Computing
+- Infosys Springboard – Java Foundation
+- Cisco – Introduction to Cybersecurity
 
 ---
 
 # 💬 Favorite Quote
 
-> **"Consistency turns small efforts into remarkable achievements."**
+> **"Code with purpose. Learn with curiosity. Build with passion."**
 
 ---
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat-square"/>
+  <img src="https://komarev.com/ghpvc/?username=Dineshkumar0206&label=Profile%20Views&color=0e75b6&style=flat-square"/>
 </p>
 
 <h3 align="center">
-⭐ Thanks for visiting my profile! ⭐
+⭐ Thank you for visiting my profile! Let's connect and build something amazing together. 🚀
 </h3>
