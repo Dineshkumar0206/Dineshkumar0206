@@ -1,15 +1,14 @@
-<h1 align="center">Hi 👋, I'm Dinesh Kumar</h1>
+<h1 align="center">Hi 👋, I'm Dineshkumar</h1>
 
 <h3 align="center">
-🚀 Full Stack Java Developer | Spring Boot | React | Open Source Enthusiast
+🚀 Full Stack Java Developer | Spring Boot | React | Problem Solver
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1200&color=0E75B6&center=true&vCenter=true&random=false&width=900&lines=Welcome+to+my+GitHub!;Java+Full+Stack+Developer;Spring+Boot+%7C+React+Developer;Problem+Solver+%7C+DSA+Learner;Building+Scalable+Applications;Always+Learning+Something+New+🚀" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Java+Full+Stack+Developer;Spring+Boot+Developer;React+Developer;Always+Learning+New+Technologies+🚀"/>
 </p>
 
 <p align="center">
-
 <a href="mailto:dinesh291105@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
@@ -25,38 +24,29 @@
 <a href="https://github.com/YOUR_GITHUB_USERNAME">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
-
 </p>
 
 ---
 
 # 💫 About Me
 
-🎓 Final-Year Computer Science & Engineering Student
+🎓 Final-Year Computer Science and Engineering Student
 
-💻 Passionate about designing scalable and efficient full-stack applications.
+💻 Passionate about building scalable Full Stack applications using Java technologies.
 
-🌱 Currently mastering
+🌱 Currently learning
 
 - Data Structures & Algorithms
 - Bit Manipulation
 - Spring Boot
 - React
-- System Design
 - Docker
+- System Design
 - Microservices
 
-🚀 Interested in
+🚀 Interested in Backend Development, REST APIs, Cloud Technologies and AI-powered Applications.
 
-- Full Stack Development
-- Backend Engineering
-- Cloud Technologies
-- REST APIs
-- AI-powered Applications
-
-🎯 **Career Goal**
-
-To become a Software Development Engineer by building impactful software solutions and continuously learning modern technologies.
+🎯 **Goal:** Become a Software Development Engineer by building impactful software solutions.
 
 ---
 
@@ -64,163 +54,89 @@ To become a Software Development Engineer by building impactful software solutio
 
 ## 🤖 AI Doctor Appointment System
 
-An AI-powered healthcare platform that enables secure doctor appointment booking with intelligent doctor recommendations.
+AI-powered healthcare appointment platform featuring doctor recommendations, JWT Authentication, email notifications, and role-based dashboards.
 
-### Features
-
-- 🤖 AI Doctor Recommendation
-- 🔐 JWT Authentication
-- 📧 Email Notifications
-- 👨‍⚕️ Doctor Dashboard
-- 👤 Patient Dashboard
-- 🛠 Admin Panel
-- 🌐 REST APIs
-
-**Tech Stack**
-
-`Spring Boot` • `React` • `PostgreSQL` • `Docker` • `Groq AI`
+**Tech Used:** Spring Boot, React, PostgreSQL, Docker, Groq AI
 
 ---
 
 ## 🚌 Track My Bus
 
-A GPS-enabled real-time bus tracking platform that allows passengers to monitor buses and routes efficiently.
+GPS-based real-time bus tracking application with REST APIs and responsive UI.
 
-**Tech Stack**
-
-`Spring Boot` • `JavaScript` • `MySQL`
+**Tech Used:** Spring Boot, JavaScript, HTML, CSS, MySQL
 
 ---
 
 ## 🔒 SecureLens
 
-A cybersecurity platform that detects phishing websites using heuristic URL analysis with secure authentication.
+Cybersecurity platform for phishing website detection using heuristic URL analysis.
 
-**Tech Stack**
-
-`React` • `Spring Boot` • `MySQL`
+**Tech Used:** Spring Boot, React, MySQL, JWT Authentication
 
 ---
 
 # 💻 Tech Stack
 
 ### Programming Languages
+- Java
+- JavaScript
+- SQL
+- HTML5
+- CSS3
 
-<p>
+### Backend
+- Spring Boot
+- Spring MVC
+- REST APIs
+- Spring Security
+- JWT Authentication
+- Maven
 
-<img src="https://skillicons.dev/icons?i=java" height="45"/>
-<img src="https://skillicons.dev/icons?i=js" height="45"/>
-<img src="https://skillicons.dev/icons?i=html" height="45"/>
-<img src="https://skillicons.dev/icons?i=css" height="45"/>
-<img src="https://skillicons.dev/icons?i=mysql" height="45"/>
+### Frontend
+- React
+- Bootstrap
 
-</p>
+### Databases
+- MySQL
+- PostgreSQL
 
----
+### Tools & Platforms
+- Git
+- GitHub
+- Docker
+- VS Code
+- IntelliJ IDEA
+- Postman
 
-### Frameworks & Libraries
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=spring" height="45"/>
-<img src="https://skillicons.dev/icons?i=react" height="45"/>
-
-</p>
-
----
-
-### Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git" height="45"/>
-<img src="https://skillicons.dev/icons?i=github" height="45"/>
-<img src="https://skillicons.dev/icons?i=docker" height="45"/>
-<img src="https://skillicons.dev/icons?i=postman" height="45"/>
-<img src="https://skillicons.dev/icons?i=vscode" height="45"/>
-<img src="https://skillicons.dev/icons?i=idea" height="45"/>
-
-</p>
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
+### Core Concepts
+- Object-Oriented Programming (OOP)
+- Data Structures & Algorithms
+- Bit Manipulation
+- REST Architecture
+- Database Design
 
 ---
 
-# 🔥 GitHub Streak
+# 🌱 Currently Working On
 
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
-
-</p>
+- Solving LeetCode Problems Daily
+- Advanced Data Structures & Algorithms
+- Building Production-Ready Spring Boot Applications
+- Learning Microservices & Cloud Technologies
 
 ---
 
-# 🏆 GitHub Trophies
+# 💬 Favorite Quote
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
-
-</p>
-
----
-
-# 🎯 Currently Working On
-
-- 🚀 Building Full Stack Projects
-- 💻 Solving LeetCode Problems Daily
-- 📚 Mastering Advanced DSA
-- ☁️ Learning Cloud & Microservices
-- 🤝 Exploring Open Source Contributions
-
----
-
-# 📫 Connect with Me
-
-📧 **Email**  
-**dinesh291105@gmail.com**
-
-💼 **LinkedIn**  
-https://www.linkedin.com/in/dineshkumar-k-1b4b01373/
-
-🧩 **LeetCode**  
-https://leetcode.com/u/Dinesh_02_/
-
----
-
-<h2 align="center">
-💡 <i>"Consistency is the key to mastering software engineering."</i>
-</h2>
+> **"Consistency turns small efforts into remarkable achievements."**
 
 ---
 
 <p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat-square"/>
 </p>
 
 <h3 align="center">
-⭐ Thank you for visiting my profile! ⭐
+⭐ Thanks for visiting my profile! ⭐
 </h3>
