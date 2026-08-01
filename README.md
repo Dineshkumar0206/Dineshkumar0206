@@ -79,7 +79,7 @@ A phishing detection platform that identifies malicious websites using heuristic
 
 - React
 - HTML5
-- 
+  
 ## Backend
 
 - Spring Boot
