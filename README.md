@@ -115,10 +115,6 @@ A phishing detection platform that identifies malicious websites using heuristic
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dineshkumar0206&label=Profile%20Views&color=0e75b6&style=flat-square"/>
-</p>
-
 <h3 align="center">
 ⭐ Thank you for visiting my profile! Let's connect and build something amazing together. 🚀
 </h3>
