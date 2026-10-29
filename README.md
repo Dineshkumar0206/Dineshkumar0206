@@ -87,7 +87,6 @@ A phishing detection platform that identifies malicious websites using heuristic
 ## Database
 
 - MySQL
-- PostgreSQL
 
 ## Tools
 
@@ -99,13 +98,9 @@ A phishing detection platform that identifies malicious websites using heuristic
 ## Core Concepts
 
 - Object-Oriented Programming (OOP)
-- Data Structures & Algorithms
 
 # 📜 Certifications
-
-- NPTEL – Cloud Computing
 - Infosys Springboard – Java Foundation
-- Cisco – Introduction to Cybersecurity
 
 ---
 
